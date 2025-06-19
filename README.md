@@ -63,4 +63,4 @@ When you run the setup, it creates:
 - `reminder.sh` - Main reminder script
 - `startup.sh` - Application launcher
 
-That's it! The app is ready to help track assignment submissions.
+That's it! If you want to contribute or add your own amazing feature feel free to fork the repo ✌️
